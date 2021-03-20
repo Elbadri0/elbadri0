@@ -2,14 +2,14 @@
 
 [![school](https://img.shields.io/badge/Mundiapolis-Student-blue)](mundiapolis.ma)
 
-## I'm a Developer, and a software engineering student!!
+## I'm a Developer and a software engineering student !!
 
-- 💻 following machine learning course at Holbertonschool [School of computer science and software developmen][Holbertonschool]!
-- 👯 I’m open for collaborating in AI and VR projects
+- 💻 following machine learning course at [Holbertonschool][Holbertonschool]!.
+- 👯 I’m open for collaborating in AI and VR projects.
 - 🔭 I just publish my projects here.
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: make internet useful for good purpose
-- ⚡ Fun fact: I love to philosophie and i play guembri🎸
+- 🌱 I’m currently learning everything .
+- 🥅 2021 Goals: make internet useful for good purpose.
+- ⚡ Fun fact: I love to philosophie and i play guembri🎸.
 
 ### Connect with me:
 
