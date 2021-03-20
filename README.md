@@ -41,12 +41,10 @@
 <br />
 
 
-<details>
-  <summary>GitHub Stats</summary>
+ ### GitHub Stats
 
-  <img align="left" alt="elbadri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elbadri0&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" alt="elbadri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elbadri0&theme=dark&show_icons=true&hide_border=true" />
 
-</details>
 
 [Holbertonschool]: https://www.holbertonschool.com
 [instagram]: https://www.instagram.com/elbadri_abdelhamid
