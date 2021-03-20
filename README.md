@@ -48,7 +48,7 @@
 
 </details>
 
-[Holbertonschool]: holbertonschool.com
-[instagram]: instagram.com/elbadri_abdelhamid
-[linkedin]: linkedin.com/in/abdelhamid-elbadri-19366314a
-[facebook]: facebook.com/ELBADRI.ABDEL
+[Holbertonschool]: www.holbertonschool.com
+[instagram]: www.instagram.com/elbadri_abdelhamid
+[linkedin]: www.linkedin.com/in/abdelhamid-elbadri-19366314a
+[facebook]: www.facebook.com/ELBADRI.ABDEL
