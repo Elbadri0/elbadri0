@@ -8,7 +8,7 @@
 - 👯 I’m open for collaborating in AI and VR projects.
 - 🔭 I just publish my projects here.
 - 🌱 I’m currently learning everything .
-- 🥅 2021 Goals: make internet useful for good purpose.
+- 🥅 2021 Goals: make internet useful for good purposes.
 - ⚡ Fun fact: I love to philosophie and i play guembri🎸.
 
 ### Connect with me:
