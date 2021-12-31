@@ -37,7 +37,7 @@
 
  ### GitHub Stats
 
-  <img align="center" alt="elbadri's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elbadri0&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" alt="elbadri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elbadri0&theme=dark&show_icons=true&hide_border=true" />
 
 
 [Holbertonschool]: https://www.holbertonschool.com
