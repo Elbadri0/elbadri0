@@ -1,14 +1,14 @@
 ### Hi there, I'm Abdelhamid 👋
 
-[![school](https://img.shields.io/badge/Mundiapolis-Student-blue)](mundiapolis.ma)
+[![school](https://img.shields.io/badge/Mundiapolis-Stellantis-blue)](stellantis.com)
 
-## I'm a Developer and a software engineering student !!
+## I'm a Developer and a software engineer !!
 
-- 💻 following machine learning course at [Holbertonschool][Holbertonschool].
+- 💻 looking for a Phd in subject related to AI/VR.
 - 👯 I’m open for collaborating in AI and VR projects.
 - 🔭 I just publish my projects here.
 - 🌱 I’m currently learning everything .
-- 🥅 2021 Goals: make internet useful for good purposes.
+- 🥅 2022 Goals: make internet useful for good purposes.
 - ⚡ Fun fact: I love to philosophie and i play guembri🎸.
 
 ### Connect with me:
