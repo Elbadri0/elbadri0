@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdelhamid 👋
 
-[![school](https://img.shields.io/badge/Mundiapolis-Stellantis-blue)](stellantis.com)
+[![school](https://img.shields.io/badge/Mundiapolis-Capgemini)](https://www.capgemini.com/fr-fr/)
 
 ## I'm a Developer and a software engineer !!
 
